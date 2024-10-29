@@ -27,6 +27,6 @@ This system automates the DVLD’s processes, including license issuance, renewa
 - **Scheduling**: Manages scheduling for required exams (medical, theoretical, practical).
 - **Results Tracking**: Records exam results for each applicant, providing a clear status overview.
 
-### 4. Admin and User Management
+### 4. User Management
 - **User Control**: Enables admins to manage users, assign roles, and control access to system features.
 - **Applicant Data Management**: Facilitates secure storage and access to applicant information, ensuring data integrity and compliance.
