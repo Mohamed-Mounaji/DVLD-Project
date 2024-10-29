@@ -1,0 +1,6 @@
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Data\bin\Debug\DVLD_Data.dll
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Data\bin\Debug\DVLD_Data.pdb
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Data\obj\Debug\DVLD_Data.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Data\obj\Debug\DVLD_Data.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Data\obj\Debug\DVLD_Data.dll
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Data\obj\Debug\DVLD_Data.pdb

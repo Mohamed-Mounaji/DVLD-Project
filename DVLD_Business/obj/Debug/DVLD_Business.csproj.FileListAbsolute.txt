@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Business\bin\Debug\DVLD_Business.dll
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Business\bin\Debug\DVLD_Business.pdb
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Business\bin\Debug\DVLD_Data.dll
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Business\bin\Debug\DVLD_Data.pdb
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Business\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Business\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Business\obj\Debug\DVLD_Bus.1422E61B.Up2Date
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Business\obj\Debug\DVLD_Business.dll
+C:\Users\lenovo\Desktop\Projects In WinForms\DVLD_Business\obj\Debug\DVLD_Business.pdb
